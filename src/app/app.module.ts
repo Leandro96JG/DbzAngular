@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { CounterModule } from './counter/counter.module';
-import { HeroesModule } from './heroes/Heroes.module';
+import { HeroesModule } from './heroes/heroes.module';
 import { CommonModule } from '@angular/common';
 import { DbzModule } from './dbz/dbz.module';
 
